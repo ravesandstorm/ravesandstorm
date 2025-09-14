@@ -1,4 +1,4 @@
-<h2 align="left">Hi there👋! My name is Satvik and I'm an AI/ML Dev, learning about web dev, currently a 3rd year CSE student.</h2>
+<h2 align="left">Hi there👋! My name is Satvik and I'm an AI/ML Dev, learning about web dev, currently a final year CSE student.</h2>
 <p align="center" width="100%"></p>
 <h4 align="center">----- My Links -----</h4>
 
