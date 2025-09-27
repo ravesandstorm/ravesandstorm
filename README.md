@@ -1,4 +1,6 @@
-<h2 align="left">Hi there👋! My name is Satvik and I'm an AI/ML Dev, learning about web dev, currently a final year CSE student.</h2>
+<h1 align="left">Hi there👋! My name is Satvik and I'm an AI/ML Dev, learning about web dev, currently a final year CSE student.</h1>
+<h2 align="center"> Check out my <a href="https://ravesandstorm.github.io/portfolio-on-nuxt-vue/">Dev Portfolio</a>!! </h2>
+
 <p align="center" width="100%"></p>
 <h4 align="center">----- My Links -----</h4>
 
