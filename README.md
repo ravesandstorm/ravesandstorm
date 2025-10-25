@@ -1,46 +1,34 @@
-<h1 align="left">Hi there👋! My name is Satvik and I'm an AI/ML Dev, learning about web dev, currently a final year CSE student.</h1>
-<h2 align="center"> Check out my <a href="https://ravesandstorm.github.io/portfolio-on-nuxt-vue/">Dev Portfolio</a>!! </h2>
+###
+
+<h1 align="center" style="padding-bottom: 1.5rem">Hi there👋! My name is Satvik and I'm an AI/ML Dev, learning about web dev, currently a final year CSE student.</h1>
+
+<h2 align="center" scale="10">
+  🚀 Check out my <a href="https://ravesandstorm.github.io/portfolio-on-nuxt-vue/">Dev Portfolio</a>! 
+</h2>
+
+###
 
 <p align="center" width="100%"></p>
-<h4 align="center">----- My Links -----</h4>
+<h3 align="center"> My Links </h3>
 
-<div align="center">
+<div align="center" style="gap:7%;">
   <a href="https://www.linkedin.com/in/satvik-beura/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" style="border-radius:1rem" alt="linkedin logo"  />
+    &emsp;
   </a>
   <a href="https://leetcode.com/u/ravesandstorm/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="35" alt="leetcode logo" style="background: #545454" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="35" alt="leetcode logo" style="background: #545454; border-radius:1rem; scale:100%" />
+    &emsp;
   </a>
   <a href="mailto:satvik.beura@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" style="border-radius:1rem" alt="gmail logo"/>
   </a>
 </div>
 
 ###
 
-<div style="
-    width: 100%;
-    height: 2px;
-    background-image: repeating-linear-gradient(90deg,
-        #62efab 0%, #62efab 2%,
-        transparent 2%, transparent 4%,
-        #F2EA7D 4%, #F2EA7D 6%,
-        transparent 6%, transparent 8%,
-        #FF8797 8%, #FF8797 10%,
-        transparent 10%, transparent 12%,
-        #e1a4f4 12%, #e1a4f4 14%,
-        transparent 14%, transparent 16%,
-        #82fff4 16%, #82fff4 18%,
-        transparent 18%, transparent 20%);
-    background-size: 200% 100%;
-    animation: moveRainbow 12s ease-in-out infinite alternate;
-    filter: blur(1px);
-"></div>
-
-###
-
 <div align="center">
-  <h4 align="center">----- My Tech Stack -----</h4>
+  <h3 align="center"> My Tech Stack </h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -122,12 +110,19 @@
 
 ###
 
-<div>
-  <img align="right" height="150" src="https://media4.giphy.com/media/2WjpfxAI5MvC9Nl8U7/giphy.gif?cid=6c09b952cisjq7hkh52jilzsyu556isceg284e8cnpzfwgrt&ep=v1_internal_gif_by_id&rid=giphy.gif&"  />
-</div>
+<div class="rainbow-line"></div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ravesandstorm&theme=github_dark_dimmed&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravesandstorm&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+###
+
+<p align="center"><a><img src="https://github-readme-streak-stats.herokuapp.com/?user=ravesandstorm&theme=github_dark" alt="ravesandstorm" align="center" /></a></p>
+
+<p align="center">
+  <img height="150" src="https://media4.giphy.com/media/2WjpfxAI5MvC9Nl8U7/giphy.gif?cid=6c09b952cisjq7hkh52jilzsyu556isceg284e8cnpzfwgrt&ep=v1_internal_gif_by_id&rid=giphy.gif&" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravesandstorm&theme=github_dark&include_all_commits=true&count_private=false&layout=compact" alt="ravesandstorm" />
+</p>
+
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravesandstorm&theme=github_dark_dimmed" alt="ravesandstorm" align="center" /></a></p>
 
 
 <!--javascript, typescript, fastapi, git, go, gitlab, graphql, java, jupyter, kaggle, mongodb, mysql, nodejs, npm, numpy, nuxtjs, opencv, pandas, python, pytorch, redis, spring, sqlite, tensorflow, vuejs, vscode, anaconda, arduino, c, cplusplus, express, apachemaven, github, selenium, postgresql, css, html5, postman, vite
