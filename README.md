@@ -13,15 +13,21 @@
 
 <div align="center" style="gap:7%;">
   <a href="https://www.linkedin.com/in/satvik-beura/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" style="border-radius:1rem" alt="linkedin logo"  />
+    <kbd>
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"/>
+    </kbd>
     &emsp;
   </a>
   <a href="https://leetcode.com/u/ravesandstorm/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="35" alt="leetcode logo" style="background: #545454; border-radius:1rem; scale:100%" />
+    <kbd>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" height="27" alt="leetcode logo"/>
+    </kbd>
     &emsp;
   </a>
   <a href="mailto:satvik.beura@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" style="border-radius:1rem" alt="gmail logo"/>
+    <kbd>
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"/>
+    </kbd>
   </a>
 </div>
 
