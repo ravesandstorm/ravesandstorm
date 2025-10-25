@@ -128,7 +128,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravesandstorm&theme=github_dark&include_all_commits=true&count_private=false&layout=compact" alt="ravesandstorm" />
 </p>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravesandstorm&theme=github_dark_dimmed" alt="ravesandstorm" align="center" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravesandstorm&theme=github_dark_dimmed" alt="Github Stats Trophy" align="center" /></a></p>
 
 
 <!--javascript, typescript, fastapi, git, go, gitlab, graphql, java, jupyter, kaggle, mongodb, mysql, nodejs, npm, numpy, nuxtjs, opencv, pandas, python, pytorch, redis, spring, sqlite, tensorflow, vuejs, vscode, anaconda, arduino, c, cplusplus, express, apachemaven, github, selenium, postgresql, css, html5, postman, vite
