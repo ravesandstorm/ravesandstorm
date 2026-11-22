@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center" style="padding-bottom: 1.5rem">Hi there👋! My name is Satvik and I'm an AI/ML Dev, learning about web dev, currently a final year CSE student.</h1>
+<h1 align="center" style="padding-bottom: 1.5rem">Hi there! My name is Satvik, I'm a Software Engineer from India, focused on full stack and concurrent agentic applications with Rust, currently working full time.</h1>
 
 <h2 align="center" scale="10">
   🚀 Check out my <a href="https://ravesandstorm.github.io/portfolio-on-nuxt-vue/">Dev Portfolio</a>! 
